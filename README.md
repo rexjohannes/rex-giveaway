@@ -15,7 +15,7 @@
 
 * Clone repository:
 ```sh
-git clone https://github.com/Androz2091/giveaways-bot
+git clone https://github.com/rexjohannes/rex-giveaway
 ```
 
 * Fill configuration (config.json):
